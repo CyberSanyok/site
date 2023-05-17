@@ -332,8 +332,8 @@ head {
     position: absolute;
     width: 214px;
     height: 79px;
-    right: 100px;
-    bottom: -650px;
+    right: 200px;
+    bottom: -900px;
 
     font-family: 'Inter';
     font-style: italic;
@@ -368,11 +368,11 @@ head {
 }
 
 .logoza-3 {
-    position: absolute;
+    position: relative;
     width: 200px;
     height: 105px;
-    left: 100px;
-    top: 1765px;
+    left: 20px;
+    top: 0px;
 }
 
 .overlap-group4 {
